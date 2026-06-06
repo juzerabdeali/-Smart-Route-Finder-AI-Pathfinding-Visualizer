@@ -5,7 +5,7 @@ A sleek, interactive, and modern AI-driven Pathfinding Visualizer built using Py
 ---
 
 <p align="center">
-  <img src="assets/banner.png" alt="Smart Route Finder Banner" width="100%">
+  <img src="banner.png" alt="Smart Route Finder Banner" width="100%">
 </p>
 
 ---
